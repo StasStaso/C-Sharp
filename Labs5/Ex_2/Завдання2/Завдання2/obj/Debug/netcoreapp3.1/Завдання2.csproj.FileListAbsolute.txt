@@ -1,0 +1,12 @@
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.exe
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.deps.json
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.runtimeconfig.json
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.dll
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\bin\Debug\netcoreapp3.1\Завдання2.pdb
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.AssemblyInfo.cs
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.dll
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.pdb
+C:\Users\Intel\Desktop\LabC#\Labs5\Ex_2\Завдання2\Завдання2\obj\Debug\netcoreapp3.1\Завдання2.genruntimeconfig.cache
